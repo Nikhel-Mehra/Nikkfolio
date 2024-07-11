@@ -304,6 +304,11 @@ h6 {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+.section {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
 section {
   padding: 60px 0;
   overflow: hidden;
@@ -385,6 +390,11 @@ section {
 # Facts
 --------------------------------------------------------------*/
 .facts {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
+.facts {
   padding-bottom: 30px;
 }
 
@@ -447,6 +457,11 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
 .services .icon-box {
   padding: 30px;
   position: relative;
@@ -723,6 +738,11 @@ section {
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
+.clints {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
 .clients {
   padding: 60px 0;
 }
@@ -742,6 +762,11 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
 .contact .info {
   color: #fff;
   background: #000; /* Change background color to black */
