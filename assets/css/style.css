@@ -437,8 +437,13 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
+.skills {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
 .skills .progress {
   height: 60px;
   display: block;
@@ -476,6 +481,11 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.Resume {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -850,6 +860,11 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact {
+  background-color: #000; /* Change background color to black */
+  color: #fff; /* Set text color to white for better contrast */
+  padding: 40px; /* Adjust padding as needed */
+}
 .contact {
   padding-bottom: 130px;
 }
